@@ -1,0 +1,36 @@
+@media(max-width:450px){
+    #header{
+        justify-content: space-between;
+    }
+    .header__header{
+        font-size: 1em;
+        text-align: center;
+    }
+    p.motto{
+        font-size: 0.8em;
+    }
+    p.motto > i{
+        font-size: 1.2em;
+    }
+    .headerToggle{
+        width: 30px;
+    }
+    .headerToggle > div{
+        height: 3px;
+    }
+    #sideHeader{
+        width: 150px;
+    }
+    .close{
+        font-size: 30px;
+    }
+    .sideHeaderLinksSection{
+
+    }
+    .sideHeaderLinkDiv{
+        margin-top:10px;
+    }
+    .sideHeaderLinkDiv > a{
+        font-size: 1em;
+    }
+}

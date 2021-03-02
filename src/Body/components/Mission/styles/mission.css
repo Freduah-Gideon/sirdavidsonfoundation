@@ -1,0 +1,18 @@
+.missionStatementSection{
+    text-align: center;
+}
+.missionStatementHeader{
+    font-size: 40px;
+    color: rgba(0,0,0,.7);
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.missionStatement{
+    width: 70%;
+    margin:auto;
+}
+.missionStatement > p{
+    font-size: 18px;
+    line-height: 3;
+}

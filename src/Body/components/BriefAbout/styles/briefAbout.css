@@ -1,0 +1,19 @@
+.briefAboutSection{
+    text-align: center;
+    
+}
+.briefAboutHeader{
+    font-size: 40px;
+    color: rgba(0,0,0,.7);
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.breafAboutStatement{
+    width: 70%;
+    margin:auto;
+}
+.breafAboutStatement > p{
+    font-size: 18px;
+    line-height: 3;
+}
